@@ -6,4 +6,4 @@ const TransformationsPage = () => {
   )
 }
 
-export default TransformationsPagenode -v
+export default TransformationsPage
